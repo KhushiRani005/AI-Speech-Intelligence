@@ -1,0 +1,104 @@
+[
+    {
+        "timestamp": "2026-08-07 00:53:27",
+        "transcript": " Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+        "language": "en",
+        "content_generation": {
+            "summary": "Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+            "keywords": [
+                "hello",
+                "name",
+                "khushi",
+                "rami",
+                "test"
+            ],
+            "word_count": 16
+        },
+        "audio_analysis": {
+            "duration_seconds": 8.55,
+            "silence_percentage": 62.6,
+            "average_energy": 0.0078,
+            "quality": "Poor"
+        },
+        "speaker_analysis": {
+            "speaker_count": 1,
+            "speakers": [
+                {
+                    "speaker_id": "SPEAKER_00",
+                    "start_time": 0.0,
+                    "end_time": 8.55
+                }
+            ],
+            "note": "Placeholder implementation. Real speaker diarization can be integrated using pyannote.audio."
+        },
+        "confidence": 0.7
+    },
+    {
+        "timestamp": "2026-08-07 00:54:40",
+        "transcript": " Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+        "language": "en",
+        "content_generation": {
+            "summary": "Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+            "keywords": [
+                "hello",
+                "name",
+                "khushi",
+                "rami",
+                "test"
+            ],
+            "word_count": 16
+        },
+        "audio_analysis": {
+            "duration_seconds": 8.55,
+            "silence_percentage": 62.6,
+            "average_energy": 0.0078,
+            "quality": "Poor"
+        },
+        "speaker_analysis": {
+            "speaker_count": 1,
+            "speakers": [
+                {
+                    "speaker_id": "SPEAKER_00",
+                    "start_time": 0.0,
+                    "end_time": 8.55
+                }
+            ],
+            "note": "Placeholder implementation. Real speaker diarization can be integrated using pyannote.audio."
+        },
+        "confidence": 0.7
+    },
+    {
+        "timestamp": "2026-08-07 01:08:44",
+        "transcript": " Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+        "language": "en",
+        "content_generation": {
+            "summary": "Hello my name is Khushi Rami this is our test audio for my AI speech project.",
+            "keywords": [
+                "hello",
+                "name",
+                "khushi",
+                "rami",
+                "test"
+            ],
+            "word_count": 16
+        },
+        "audio_analysis": {
+            "duration_seconds": 8.55,
+            "silence_percentage": 62.6,
+            "average_energy": 0.0078,
+            "quality": "Poor"
+        },
+        "speaker_analysis": {
+            "speaker_count": 1,
+            "speakers": [
+                {
+                    "speaker_id": "SPEAKER_00",
+                    "start_time": 0.0,
+                    "end_time": 8.55
+                }
+            ],
+            "note": "Placeholder implementation. Real speaker diarization can be integrated using pyannote.audio."
+        },
+        "confidence": 0.7
+    }
+]
